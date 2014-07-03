@@ -1,0 +1,6 @@
+name: $(project.artifactId)
+main: com.mcdrum.dev.ClockCommands
+version: $(project.version)
+commands:
+    cc:
+        description: Clock Commands command.
