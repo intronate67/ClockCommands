@@ -1,0 +1,14 @@
+# Config for Clock Commands
+
+enabled: true
+# Enables or Disables the use of the plugin.
+
+max-time: 60
+# If any time stamps in the time key below are
+# above the max time, they will not run.
+
+time:
+# Please do not edit the config directly,
+# Use /cc set <time> <command>
+# You may also delete values by
+# doing /cc del <time>.
